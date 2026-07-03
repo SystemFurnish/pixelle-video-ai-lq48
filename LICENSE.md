@@ -1,4 +1,4 @@
-# 
+# VIP Pixelle-Video flujo de trabajo. Con interfaz amigable y inferencia en tiempo real — optimizado para el máximo rendimiento y eficiencia.
 
 
 
